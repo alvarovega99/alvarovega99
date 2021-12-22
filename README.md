@@ -18,7 +18,7 @@ const alvaroVega = {
       {WheatherApp: [['React', 'Redux', 'CSS' ]}
       {BarberApp: [PHP, HTML, 'SASS' , 'Laravel' , 'MySql']}
     ],
-  FutureTecnologies: ['Python', React-Native],
+  FutureTecnologies: ['Python', 'React-Native'],
 }
 ```
 ## Proyectos 
