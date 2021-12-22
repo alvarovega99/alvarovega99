@@ -21,8 +21,8 @@ const alvaroVega = {
   FutureTecnologies: ['Python', 'React-Native'],
 }
 ```
-## Proyectos 
-### PokemonsApp: 
+# Proyectos 
+## PokemonsApp: 
 #### Tecnologias Utilizadas:
 -React  
 -Redux  
