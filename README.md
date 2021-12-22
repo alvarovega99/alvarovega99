@@ -15,8 +15,8 @@ const alvaroVega = {
     },
   Proyects: [
       {PokemonsApp: ['React', 'Redux', CSS , 'NodeJs', 'Express', 'Sequelize']},
-      {WheatherApp: [['React', 'Redux', CSS ]}
-      {BarberApp: [PHP, HTML, SASS , Laravel , MySql]}
+      {WheatherApp: [['React', 'Redux', 'CSS' ]}
+      {BarberApp: [PHP, HTML, 'SASS' , 'Laravel' , 'MySql']}
     ],
   FutureTecnologies: ['Python', React-Native],
 }
