@@ -1,16 +1,40 @@
-### Hi there 👋
+![image](https://www.webcancun.com.mx/blog/wp-content/uploads/2017/02/se-solicita-programador-web-web-cancun.jpg)
 
-<!--
-**alvarovega99/alvarovega99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AlvaroVega
+### Full Stack Developer
 
-Here are some ideas to get you started:
+```js
+const alvaroVega = {
+  Skills: {
+      BackEnd: [
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
+        ],
+      FrontEnd: [
+          {JavaScript: ['React', 'React-Native', 'Redux']}
+        ]
+    },
+  Proyects: [
+      {PokemonsApp: ['React', 'Redux', CSS , 'NodeJs', 'Express', 'Sequelize']},
+      {WheatherApp: [['React', 'Redux', CSS ]}
+      {BarberApp: [PHP, HTML, SASS , Laravel , MySql]}
+    ],
+  FutureTecnologies: ['Python', React-Native],
+}
+```
+## Proyectos 
+### PokemonsApp: 
+#### Tecnologias Utilizadas:
+-React  
+-Redux  
+-CSS  
+-NodeJs  
+-Express  
+-Sequelize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BarberApp: 
+#### Tecnologias Utilizadas:
+-PHP  
+-HTML  
+-SASS  
+-MySql  
+-Laravel
