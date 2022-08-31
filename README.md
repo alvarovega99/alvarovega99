@@ -20,24 +20,4 @@ const alvaroVega = {
     ],
   FutureTecnologies: ['Python', 'React-Native'],
 }
-```
-# Proyectos 
-## PokemonsApp 
-#### Tecnologias Utilizadas:
--React  
--Redux  
--CSS  
--NodeJs  
--Express  
--Sequelize
 
-
-![image](https://github.com/alvarovega99/alvarovega99/blob/main/WhatsApp%20Image%202021-12-22%20at%2015.19.23.jpeg)
-
-## BarberApp 
-#### Tecnologias Utilizadas:
--PHP  
--HTML  
--SASS  
--MySql  
--Laravel
