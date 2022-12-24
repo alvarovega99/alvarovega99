@@ -1,23 +1,5 @@
-![image](https://www.webcancun.com.mx/blog/wp-content/uploads/2017/02/se-solicita-programador-web-web-cancun.jpg)
-
-# Hola, Mi nombre es Alvaro! 👋 💻
+# Hi, I'm Alvaro Vega 👋 💻
 ### Full Stack Developer
 
-```js
-const alvaroVega = {
-  Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
-    },
-  Proyects: [
-      {PokemonsApp: ['React', 'Redux', CSS , 'NodeJs', 'Express', 'Sequelize']},
-      {WheatherApp: [['React', 'Redux', 'CSS' ]}
-      {BarberApp: [PHP, HTML, 'SASS' , 'Laravel' , 'MySql']}
-    ],
-  FutureTecnologies: ['Python', 'React-Native'],
-}
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovega99&count_private=true&layout=compact&langs_count=7&theme=radical&card_width=400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alvarovega99&show_icons=true&theme=radical&count_private=true&card_width=400" />
